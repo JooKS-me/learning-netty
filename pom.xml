@@ -11,6 +11,7 @@
     <modules>
         <module>learning-netty-discardserver</module>
         <module>learning-netty-timeserver</module>
+        <module>learning-netty-anothertimeserver</module>
     </modules>
 
     <properties>
